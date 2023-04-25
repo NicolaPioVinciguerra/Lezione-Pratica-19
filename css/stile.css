@@ -170,9 +170,39 @@ font-size: 1.4em;
 color: #000000;
  }
  div.tes p{
-   font-size: 30px;
-  margin-left: 70px;
+   font-size: 20px;
+  margin-left: 60px;
  }
  
+div.Im{
+   width: auto;
+   display: grid;
+grid-template-columns: 1fr 1fr ;
+}
+
+/* Universale*/
+.gridI {
+    margin: 40px 40px 40px 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr  ; 
+    gap: 20px;
+}
+
+
+main div img {
+    border-radius: 10px;
+}
+
+main div.card1 h3 {
+    margin: 0;
+    padding: 20px 20px 4px 20px;
+    font-size: 20px;
+    color: #211e1e;
+}
+
+main div.card1  {
+    font-size: 10px;
+    line-height: 1.5; 
+}
 
 
