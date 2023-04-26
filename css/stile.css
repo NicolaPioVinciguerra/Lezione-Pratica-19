@@ -204,5 +204,6 @@ main div.card1  {
     font-size: 10px;
     line-height: 1.5; 
 }
-
-
+div.se{
+    list-style: none;
+}
