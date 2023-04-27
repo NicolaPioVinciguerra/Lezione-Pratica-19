@@ -284,5 +284,16 @@ div.la h1{
     font-size: 50px;
     color: #ffffff;
     }
-    
-
+    div.chi h1{ 
+        margin-top: 0;
+        padding: 10%;
+        text-align: center;
+        justify-content: center; 
+        background-image: url('../immagini/NewILlustrator.jpg');
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-position: center;
+        font-size: 50px;
+        color: #ffffff;
+        }
+       
