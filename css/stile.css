@@ -195,6 +195,16 @@ main div.card1  {
     color: #fff;
     list-style-type: none;
 }
+img.ca2{
+    float: left;
+    padding: 20px;
+}
+p.e{
+    padding: 15px 0 40px 0 ;
+    background-color: rgb(223,223,223);
+    border: solid 2px #000000;
+    margin-right: 50px;
+}
 /* Camilo Huinca */
 div.ch h1{ /* centrare testo*/
     margin-top: 0;
@@ -241,11 +251,38 @@ div.x h1{
     padding: 10%;
     text-align: center;
     justify-content: center; 
-    background-image: url('../immagini/Xoana Herrera/AP_Xoana_Herrera_Aves_2x-scaled.png');
+    background-image: url('../immagini/Xoana Herrera/EiHDH1oUMAMOTTA.jpg');
     background-size:cover ;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 50px;
     color: #000000;
     }
+    /*Linn Fritz */
+div.l h1{ 
+    margin-top: 0;
+    padding: 10%;
+    text-align: center;
+    justify-content: center; 
+    background-image: url('../immagini/Linn Fritz/Feeling-Blue.jpg');
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 50px;
+    color: #000000;
+    }
+       /*La Boca */
+div.la h1{ 
+    margin-top: 0;
+    padding: 10%;
+    text-align: center;
+    justify-content: center; 
+    background-image: url('../immagini/La Boca/AP_La_Boca_STLYIST_B_2x.png');
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 50px;
+    color: #ffffff;
+    }
     
+
